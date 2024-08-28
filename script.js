@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Estou sempre disponível para ajudar quando meu amigo precisa.",
-                afirmacao: "Muito bem! "
+                afirmacao: "Muito bem!. "
             },
             {
                 texto: "Não costumo me envolver muito nas questões dos meus amigos.",
-                afirmacao: "Melhore"
+                afirmacao: "Melhore."
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Eu escuto atentamente quando meu amigo quer desabafar.",
-                afirmacao: "Eita nota 10!"
+                afirmacao: "Eita nota 10!."
             },
             {
                 texto: "Geralmente não presto muita atenção no que meus amigos dizem.",
-                afirmacao: "Péssimo amg"
+                afirmacao: "Péssimo amg."
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sempre respeito as opiniões e decisões dos meus amigos.",
-                afirmacao: "Você é um bom amigo"
+                afirmacao: "Você é um bom amigo."
             },
             {
                 texto: "Tenho dificuldade em aceitar opiniões diferentes das minhas.",
-                afirmacao: "Você é um amigo chato"
+                afirmacao: "Você é um amigo chato."
             }
         ]
     },
