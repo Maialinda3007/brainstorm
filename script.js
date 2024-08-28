@@ -81,7 +81,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Vamos ver...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
